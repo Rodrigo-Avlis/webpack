@@ -1,0 +1,45 @@
+/*!*******************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/assets/css/style.css ***!
+  \*******************************************************************************************************************/
+.btn1 {
+  padding: 10px;
+  background-color: #000;
+  color: #fff;
+  border-radius: 5px; }
+
+.text {
+  text-align: center; }
+
+body {
+  background-color: #ccc; }
+
+.btn2 {
+  padding: 10px;
+  background-color: red;
+  color: #fff;
+  border-radius: 5px; }
+
+.btns {
+  display: flex;
+  justify-content: center;
+  gap: 10px; }
+
+.btn3 {
+  padding: 10px;
+  background-color: blue;
+  color: #fff;
+  border-radius: 5px; }
+
+.img-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 10px;
+  box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
+  background-color: #fff;
+  border-radius: 10px; }
+
+.imgs {
+  max-width: 40%;
+  height: auto; }
+
