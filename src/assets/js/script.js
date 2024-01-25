@@ -1,5 +1,4 @@
-// import "../css/scss/style.scss";
-import "../css/style.css";
+import "../css/scss/style.scss";
 
 import { importAll } from "./script1.js";
 importAll();
